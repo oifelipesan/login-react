@@ -20,7 +20,7 @@ DarkCode Video Based Login Form. [Video Link](https://www.youtube.com/watch?v=Zv
 - [React Router](https://github.com/ReactTraining/react-router) - Declarative routing for React.
 - [Styled Component](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
-And there's more in the project [package.json](https://github.com/oifelipesan/ntask-api/blob/master/package.json).
+And there's more in the project [package.json](https://github.com/oifelipesan/login-react/blob/master/package.json).
 
 ## Installation
 
