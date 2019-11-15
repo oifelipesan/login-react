@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![](.github/assets/logo.png)
+![](.github/assets/login.png)
 
 </h1>
 
