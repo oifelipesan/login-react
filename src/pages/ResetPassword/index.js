@@ -15,8 +15,12 @@ class ResetPassword extends Component {
           <Button>Reset Password</Button>
 
           <Text>
-            Make sure your password is strong and easy to remember. Back to{" "}
-            <Link to="/">Login</Link>
+            <p>Make sure your password is strong and easy to remember.</p>
+            <p>
+              <Link to="/">
+                <i className="fas fa-arrow-left"></i> Back to Login
+              </Link>
+            </p>
           </Text>
         </Form>
       </Container>

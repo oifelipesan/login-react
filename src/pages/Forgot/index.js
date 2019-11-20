@@ -17,7 +17,11 @@ class Forgot extends Component {
           <Text>
             <p>
               By clicking "Reset Password" we will send a password reset link.
-              Back to <Link to="/">Login</Link>
+            </p>
+            <p>
+              <Link to="/">
+                <i className="fas fa-arrow-left"></i> Back to Login
+              </Link>
             </p>
           </Text>
         </Form>
